@@ -1,0 +1,41 @@
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.exe
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.pdb
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.xml
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmMainScreen.resources
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmPreMatch.resources
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.Resources.resources
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.vbproj.GenerateResource.Cache
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.exe
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.xml
+c:\users\vpaf-mossmanv\documents\visual studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.pdb
+C:\Users\vpaf-mossmanv\Documents\Visual Studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmViewStats.resources
+C:\Users\vpaf-mossmanv\Documents\Visual Studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmPreMatch2.resources
+C:\Users\vpaf-mossmanv\Documents\Visual Studio 2010\Projects\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmSetup.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.exe.manifest
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.application
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.exe
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.pdb
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.xml
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmAfterMatchNotes.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmMainScreen.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmPreMatch.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmPreMatch2.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmScorekeeping.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmViewStats.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.Resources.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.vbproj.GenerateResource.Cache
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.exe.manifest
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.application
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.exe
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.xml
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.pdb
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmSelectSquadShooters.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmSquads.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmLocation.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\obj\x86\Debug\Trapshooting5000ALPHA.frmSShooters.resources
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\TrapShooting.accdb
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\Trapshooting5000ALPHA.exe.config
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\TrapShootingDataSet.Designer.vb
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\TrapShootingDataSet.xsc
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\TrapShootingDataSet.xsd
+C:\Users\vpaf-mossman\Documents\Trapshooting5000ALPHA\Trapshooting5000ALPHA\bin\Debug\TrapShootingDataSet.xss

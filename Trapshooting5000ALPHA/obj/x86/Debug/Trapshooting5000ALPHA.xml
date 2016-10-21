@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Trapshooting5000ALPHA
+</name>
+</assembly>
+<members>
+<member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.LocationsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.MatchDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShootersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShotsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.SquadsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.LocationsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.MatchRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShootersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShotsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.SquadsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.LocationsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.MatchRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShootersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.ShotsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet.SquadsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.LocationsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.MatchTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.ShootersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.ShotsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.SquadsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Trapshooting5000ALPHA.TrapShootingDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Trapshooting5000ALPHA.TrapShootingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Trapshooting5000ALPHA.TrapShootingDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.UpdateAll(Trapshooting5000ALPHA.TrapShootingDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.TrapShootingDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Trapshooting5000ALPHA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Trapshooting5000ALPHA.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Trapshooting5000ALPHA.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
